@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.gpt-key.env
+gpt-key.env
+.env
+
