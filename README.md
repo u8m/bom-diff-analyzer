@@ -30,22 +30,22 @@
 ![差分抽出](./img/差分データ抽出.png)
 
 ### 📊 グラフ
-![グラフ](./img/差分データグラフ作成、ダウンロード.png)
+![グラフ](./img/diff_gtaph.png)
 
 ### 🧠 AIによる分析コメント
-![AI要約](./img/AI要約、ダウンロード.png)
+![AI要約](./img/ai_summary.png)
 
 ---
 
 ## 📂 使用技術
 
-| 分類   | 使用技術                                   |
+| 分類    | 使用技術                                    |
 |--------|--------------------------------------------|
 | フロント | Streamlit                                 |
 | 分析   | pandas / matplotlib                        |
-| AI連携 | Groq API（llama3-8b）                      |
-| 可視化 | 棒グラフ（matplotlib）                    |
-| その他 | WordCloud / グラデ背景 / ダウンロード機能 |
+| AI連携 | Groq API（llama3-8b）                       |
+| 可視化 | 棒グラフ（matplotlib）                        |
+| その他 | WordCloud / グラデ背景 / ダウンロード機能       |
 
 ---
 
