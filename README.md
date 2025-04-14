@@ -30,7 +30,7 @@
 ![差分抽出](./img/差分データ抽出.png)
 
 ### 📊 グラフ
-![グラフ](./img/diff_gtaph.png)
+![グラフ](./img/diff_graph.png)
 
 ### 🧠 AIによる分析コメント
 ![AI要約](./img/ai_summary.png)
